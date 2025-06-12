@@ -1,12 +1,5 @@
-# Drum-Kit-Game
+# Drum-Kit-Game / Web-App
 
-Here’s a humanized and beginner-friendly **README.md** file for your Drum Kit project — perfect for GitHub:
-
----
-
-# 🥁 Drum Kit Web App
-
-Welcome to the **Drum Kit Web App**!
 Built with ❤️ using **HTML**, **CSS**, and **JavaScript**, this is a fun little interactive project where you can play drum sounds either by clicking the buttons or pressing specific keys on your keyboard.
 
 ---
@@ -55,7 +48,7 @@ drum-kit/
 
 ## 🚀 Getting Started
 
-1. Clone this repository or download the ZIP.
+1. Clone this repository.
 2. Make sure all files are in the correct folders (`images`, `sounds`, etc.).
 3. Open `index.html` in your browser.
 4. Start drumming with your keyboard or mouse!
